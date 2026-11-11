@@ -1,2 +1,2 @@
-# Physics-study-notes
-Study material of physics for mdcat, board papers, etc
+# Biology-study-notes
+Study material of biology for mdcat, board papers, etc
